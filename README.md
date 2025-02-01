@@ -5,7 +5,7 @@ A simple repeating timer themed around hitting the pennifer. Primarily built bec
 
 
 # Usage:
-Pretty straight forward I think. 2 buttons in the upper-righthand corner for setting hit count and timer length. Click the green triangle under the timer to start it. Click the red square to pause it, click it again to reset the time and hit counter. When the sound plays its time to take a hit. On the last hit the screen will also read "Game Over". By default its set to 3 hits at 1 minute seperation, arbitrary numbers just to have something in there. Play around with it and find numbers that you like :)
+Pretty straight forward I think. 2 buttons in the upper-righthand corner for setting hit count and timer length. Click the green triangle under the timer to start it. Click the red square to pause it, click it again to reset the time and hit counter. When the sound plays its time to take a hit, then hit start again when youre done. On the last hit the screen will also read "Game Over", and its worth noting the "hits remaining" never actually reads 0. By default its set to 3 hits at 1 minute seperation, arbitrary numbers just to have something in there. Play around with it and find numbers that you like :)
 
 
 
